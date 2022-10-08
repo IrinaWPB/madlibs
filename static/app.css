@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(211, 255, 240);
+    padding: 30px;
+}
+
+div {
+    padding: 20px;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+form {
+    margin-top: 20px;
+}
